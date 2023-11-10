@@ -5,4 +5,4 @@
 - I'm a **Chinese high school** student,so I don't have much time for programming.  
 
 *(Can you give me some suggestions for programming* 🤔 *? tell me at [issues](https://github.com/LiPolymer/LiPolymer/issues).)*
-![LiPolymer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiPolymer&show_icons=true)
+[![LiPolymer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiPolymer&show_icons=true)](https://github.com/LiPolymer)
