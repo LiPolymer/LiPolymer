@@ -5,4 +5,4 @@
 ---
 *(Can you give me some suggestions for programming* 🤔 *? tell me at [issues](https://github.com/LiPolymer/LiPolymer/issues).)*
 [![LiPolymer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiPolymer&show_icons=true)](https://github.com/LiPolymer) 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiPolymer &layout=compact&langs_count=8&hide=TSQL,Dockerfile/)](https://github.com/LiPolymer)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiPolymer&layout=compact&langs_count=8&hide=TSQL,Dockerfile/)](https://github.com/LiPolymer)
