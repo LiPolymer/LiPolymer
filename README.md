@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> I am preparing for the most important exam for every Chinese. Development may stagnate. Sorry!
 # _Let open-source win!_  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLiPolymer%2FLiPolymer%2F&label=Visitors&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLiPolymer%2FLiPolymer%2F)
 *Also on* [![GitLab](https://img.shields.io/badge/GitLab-FF8C00?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LiPolymer)
 ## Now Learning:
