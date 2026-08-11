@@ -1,6 +1,5 @@
-# Hi there, I'm LiPolymer 👋
-
-> **_Let open-source win!_** 🌍
+![Header Light](./assets/banner_light.svg#gh-light-mode-only)
+![Header Dark](./assets/banner_dark.svg#gh-dark-mode-only)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLiPolymer%2FLiPolymer%2F&label=Visitors&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLiPolymer%2FLiPolymer%2F)
 [![GitLab](https://img.shields.io/badge/Find_me_on-GitLab-FF8C00?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/LiPolymer)
