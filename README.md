@@ -1,4 +1,4 @@
-![Banner](assets/banner.svg)
+![Banner](assets/banner_c.svg)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgitlab.com%2FLiPolymer&label=Visitors&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgitlab.com%2FLiPolymer)
 [![GitHub](https://img.shields.io/badge/Find_me_on-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LiPolymer)
