@@ -18,7 +18,7 @@
 
 ---
 
-### ✨ Featured Projects
+### Featured Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
