@@ -1,0 +1,14 @@
+stages:
+  - sync
+
+sync-github-branch:
+  stage: sync
+  image:
+    name: alpine/git:latest
+    entrypoint: [""]
+  variables:
+    GITHUB_BRANCH: "github"
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  script:
+    - sh .gitlab/sync-github.sh
