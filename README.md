@@ -35,17 +35,9 @@
 
 ---
 
-### 📈 Stats
+### Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=LiPolymer&show_icons=true&theme=transparent&hide_border=true&title_color=86D6BE&icon_color=86D6BE&text_color=C9D1D9&ring_color=86D6BE" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=LiPolymer&show_icons=true&theme=transparent&hide_border=true&title_color=0F6B57&icon_color=0F6B57&text_color=294B5E&ring_color=0F6B57" />
-    <img src="https://github-stats-extended.vercel.app/api?username=LiPolymer&show_icons=true&theme=transparent&hide_border=true&title_color=0F6B57&icon_color=0F6B57&text_color=294B5E&ring_color=0F6B57" height="165" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=LiPolymer&layout=compact&langs_count=8&hide=typescript,dockerfile,c,xslt,mdx&theme=transparent&hide_border=true&title_color=86D6BE&icon_color=86D6BE&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=LiPolymer&layout=compact&langs_count=8&hide=typescript,dockerfile,c,xslt,mdx&theme=transparent&hide_border=true&title_color=0F6B57&icon_color=0F6B57&text_color=294B5E" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LiPolymer&layout=compact&langs_count=8&hide=typescript,dockerfile,c,xslt,mdx&theme=transparent&hide_border=true&title_color=0F6B57&icon_color=0F6B57&text_color=294B5E" height="165" alt="Top Languages" />
-  </picture>
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=LiPolymer&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LiPolymer&layout=compact&langs_count=8&hide=typescript,dockerfile,c,xslt,mdx&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
 </p>
