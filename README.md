@@ -31,8 +31,8 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,kotlin,cpp,svelte&theme=dark&perline=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,kotlin,cpp,svelte&theme=light&perline=4" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Ckotlin%2Ccpp%2Csvelte&theme=dark&perline=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs%2Ckotlin%2Ccpp%2Csvelte&theme=light&perline=4" />
     <img src="https://skillicons.dev/icons?i=cs,kotlin,cpp,svelte&theme=light&perline=4" alt="Tech Stack Icons" />
   </picture>
 </p>
